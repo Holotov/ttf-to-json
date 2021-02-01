@@ -1,0 +1,14 @@
+{
+  "name": "ttf-to-json",
+  "version": "0.0.1",
+  "description": "A CLI utility to generate a JSON file from a TTF font file (threejs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ciphrd",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.0.0"
+  }
+}
